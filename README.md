@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://badgeslab-images-bucket.s3-sa-east-1.amazonaws.com/redventures/caio-ishizaka-costa.png" alt="my-badges" />
+
+
 <!--
 **caioishizaka/caioishizaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
